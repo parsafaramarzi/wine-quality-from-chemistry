@@ -64,7 +64,3 @@ tests/          unit tests
 data/           wine_quality_red.csv (red vinho verde, with quality)
 results/        figures and CSVs used in this README
 ```
-
-## History
-
-This repo replaces the earlier method-centred repo `DimReduction_PCA`, which only plotted PCA on this dataset.
